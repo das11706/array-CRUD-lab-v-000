@@ -1,9 +1,9 @@
 def create_an_empty_array
-  [guitar, bass, drums, piano]
+  []
 end
 
 def create_an_array
-
+  [guitar, bass, drums, piano]
 end
 
 def add_element_to_end_of_array(array, element)
