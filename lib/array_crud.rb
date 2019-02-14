@@ -1,5 +1,5 @@
 def create_an_empty_array
-  []
+  [guitar, bass, drums, piano]
 end
 
 def create_an_array
